@@ -22,6 +22,11 @@ body{
     background-color: #fff;
     font-weight: 600;
 }
+@media only screen and (max-width:990px){
+    .nav{
+        display: inline-block;
+    }
+}
 h4{
     font-family:  'Kaushan Script', cursive;
 }
@@ -47,11 +52,6 @@ h4{
     color: #fff;
     font-size: 20px;
 } 
-@media only screen and (max-width:990px){
-    .nav{
-        display: inline-block;
-    }
-}
 .cc
 {
     position: relative;
@@ -489,4 +489,9 @@ textarea{
       bottom: 40px;
       visibility: visible;
       opacity: 1;
+  }
+  #profile-pic{
+    width: 160px;
+    height:160px;
+    cursor: pointer;
   }
