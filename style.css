@@ -47,8 +47,10 @@ h4{
     color: #fff;
     font-size: 20px;
 } 
-.nav-link.active{
-    background: #262626;
+@media only screen and (max-width:990px){
+    .nav{
+        display: inline-block;
+    }
 }
 .cc
 {
