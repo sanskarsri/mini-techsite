@@ -367,6 +367,10 @@ textarea{
         grid-row:unset !important;
         width:310px;
     }
+    .gallery .box:nth-child(3)
+    {
+        height: 450px;
+    }
 }
 /* cube animation preloader start */
 .forloader{
