@@ -358,6 +358,7 @@ textarea{
 @media only screen and (max-width:991px)
 {
     .gallery{
+        margin-left: auto;
         grid-template-columns: minmax(50%,1fr);
         grid-template-rows: minmax(auto,auto);
     }
