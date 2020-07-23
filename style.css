@@ -6,6 +6,10 @@ html{
     scroll-behavior: smooth;
 }
 body{
+    overflow:hidden;
+}
+body.normal{
+    overflow: visible;
     overflow-x: hidden;
     color: whitesmoke;
     font-size: 20px;
