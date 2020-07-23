@@ -36,9 +36,6 @@ body{
     height: 10px;
     width: 70%;
 } 
-h4{
-    font-family:  'Kaushan Script', cursive;
-}
 .jumbotron{
     background: transparent
 }
@@ -147,9 +144,6 @@ h4{
     .cc .card .imgbox{
         left: 5px;
     }
-}
-#aboutfest{
-    font-family: 'Satisfy', cursive;
 }
 #aboutfest img{
     width:500px;
